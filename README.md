@@ -10,4 +10,6 @@
 
 [ch04容斥原理](https://nbviewer.jupyter.org/github/liuzengh/combinatorial-mathematics/blob/master/ch04容斥原理.ipynb)
 
+[ch05生成函数](https://nbviewer.jupyter.org/github/liuzengh/combinatorial-mathematics/blob/master/ch04生成函数.ipynb)
+
 [ch08Polya计数理论](https://nbviewer.jupyter.org/github/liuzengh/combinatorial-mathematics/blob/master/ch08Polya计数理论.ipynb)
