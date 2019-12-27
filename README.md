@@ -12,4 +12,8 @@
 
 [ch05生成函数](https://nbviewer.jupyter.org/github/liuzengh/combinatorial-mathematics/blob/master/ch05生成函数.ipynb)
 
+[ch06递推关系](https://nbviewer.jupyter.org/github/liuzengh/combinatorial-mathematics/blob/master/ch06递推关系.ipynb)
+
 [ch08Polya计数理论](https://nbviewer.jupyter.org/github/liuzengh/combinatorial-mathematics/blob/master/ch08Polya计数理论.ipynb)
+
+
